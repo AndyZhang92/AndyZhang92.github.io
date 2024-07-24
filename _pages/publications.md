@@ -7,35 +7,33 @@ author_profile: true
 
 # Journal Publications
 ------------
-1. [Efficient Scenario Generation for Heavy-tailed Chance Constrained Optimization](
-    https://arxiv.org/abs/2002.02149
+1. [Robustifying Conditional Portfolio Decisions via Optimal Transport](
+    https://arxiv.org/abs/2103.16451
+)<br>
+<small>Viet Anh Nguyen, **Fan Zhang**, Shanshan Wang, Jose Blanchet, Erick Delage, Yinyu Ye<br>
+<em>Operations Research (Forthcoming)</em></small>
+2. [Efficient Scenario Generation for Heavy-tailed Chance Constrained Optimization](
+    https://pubsonline.informs.org/doi/10.1287/stsy.2021.0021
 )<br>
 <small>Jose Blanchet, **Fan Zhang**, Bert Zwart<br>
 <em>Stochastic Systems (Forthcoming)</em></small>
-2. [Distributional Robust Batch Contextual Bandits](
+3. [Distributional Robust Batch Contextual Bandits](
     https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.4678
 )<br>
 <small>Nian Si, **Fan Zhang**, Zhengyuan Zhou, Jose Blanchet<br>
 <em>Management Science (2023)</em><br>
 **2021 MSOM Student Paper Prize Finalist**</small>
-3. [Optimal Transport Based Distributionally Robust Optimization: Structural Properties and Iterative Schemes](
+4. [Optimal Transport Based Distributionally Robust Optimization: Structural Properties and Iterative Schemes](
     https://pubsonline.informs.org/doi/abs/10.1287/moor.2021.1178
 )<br>
 <small>Jose Blanchet, Karthyek Murthy, **Fan Zhang**<br>
 <em>Mathematics of Operations Research (2021)</em></small>
-4. [Exact Simulation for Multivariate Itô Diffusions]( 
+5. [Exact Simulation for Multivariate Itô Diffusions]( 
 https://www.cambridge.org/core/journals/advances-in-applied-probability/article/abs/exact-simulation-for-multivariate-ito-diffusions/580E7AF2DC0A4081487A88762918CF31
 )<br>
 <small>Jose Blanchet, **Fan Zhang**<br>
 <em>Advances of Applied Probability (2020) </em></small>
 
-# Journal Paper Under Review
-------------
-1. [Robustifying Conditional Portfolio Decisions via Optimal Transport](
-    https://arxiv.org/abs/2103.16451
-)<br>
-<small>Viet Anh Nguyen, **Fan Zhang**, Jose Blanchet, Erick Delage, Yinyu Ye<br>
-<em>Under Review</em></small>
 
 # Conference Proceedings
 ------------
