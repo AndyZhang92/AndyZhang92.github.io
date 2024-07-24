@@ -16,7 +16,7 @@ author_profile: true
     https://pubsonline.informs.org/doi/10.1287/stsy.2021.0021
 )<br>
 <small>Jose Blanchet, **Fan Zhang**, Bert Zwart<br>
-<em>Stochastic Systems (Forthcoming)</em></small>
+<em>Stochastic Systems (2023)</em></small>
 3. [Distributional Robust Batch Contextual Bandits](
     https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.4678
 )<br>
